@@ -1,4 +1,4 @@
-# jwt-simple
+# jwt-simple (with native base64url support Node v14.20+ ONLY)
 
 [JWT(JSON Web Token)](http://self-issued.info/docs/draft-jones-json-web-token.html) encode and decode module for node.js.
 
